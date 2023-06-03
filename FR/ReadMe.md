@@ -119,3 +119,4 @@ Le but n'est pas d'être exhaustif mais de vous montrer que c'est facile à mett
 * [Isolation du T0 via GPO](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/initially-isolate-tier-0-assets-with-group-policy-to-start/ba-p/1184934)
 * [Tiering par Microsoft](https://learn.microsoft.com/fr-fr/security/compass/privileged-access-access-model)
 * [Mise en place de Bastion](https://learn.microsoft.com/fr-fr/microsoft-identity-manager/pam/planning-bastion-environment)
+* [Création d'un rebond à bas coût](https://blog.mssec.fr/realiser-un-bastion-de-tier-0-abordable-1-5/)
